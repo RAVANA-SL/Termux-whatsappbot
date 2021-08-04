@@ -31,7 +31,7 @@ let tags = {
 const defaultMenu = {
   before: `
 ╭─「 %me 」
-│ Hai, %name!
+│ Hi, %name!
 │
 │ Tersisa *%limit Limit*
 │ Role *%role*
@@ -45,7 +45,7 @@ const defaultMenu = {
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
 │ Github:
-│ %github
+│ https://github.com/RAVANA-SL/Termux-whatsappbot
 ╰────
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
