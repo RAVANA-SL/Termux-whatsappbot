@@ -1,6 +1,6 @@
 {
-  "name": "wabot-aq",
-  "version": "2.5.1",
+  "name": "RAVANA",
+  "version": "1.0",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
   "main": "index.js",
@@ -19,16 +19,16 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/Nurutomo/wabot-aq",
+  "homepage": "https://github.com/RAVANA-SL/Termux-whatsappbot",
   "author": {
     "name": "Nurutomo"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nurutomo/wabot-aq.git"
+    "url": "git+https://github.com/RAVANA-SL/Termux-whatsappbot.git"
   },
   "bugs": {
-    "url": "https://github.com/Nurutomo/wabot-aq/issues"
+    "url": "https://github.com/RAVANA-SL/Termux-whatsappbot/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
